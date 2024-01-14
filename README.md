@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/a7med_waly" target="blank"><img src="https://img.shields.io/twitter/follow/a7med_waly?logo=twitter&style=for-the-badge" alt="a7med_waly" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med-waly&label=Profile%20views&color=0e75b6&style=flat" alt="a7med-waly" /> </p>
+
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/ahmedgamelwaly](https://www.kaggle.com/ahmedgamelwaly)
 
 - 📫 How to reach me **ahmedwaly070@gmail.com**
