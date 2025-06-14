@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://github.com/A7md-Waly/A7md-Waly/blob/main/20240112_231114_0000.png)
+![Banner]([https://github.com/A7md-Waly/A7md-Waly/blob/main/20240112_231114_0000.png](https://media.licdn.com/dms/image/v2/D4D16AQFI-d6KPzhMhw/profile-displaybackgroundimage-shrink_350_1400/B4DZc.S4GEGUAc-/0/1749096829512?e=1755129600&v=beta&t=DUnBPtfVeYM6uC1t3fydX3RhwgUh8vI4x7iMwNTO0RQ))
 
 <!-- Heading -->
 # Hi there! 👋 I'm Ahmed Gamel Waly
