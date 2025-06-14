@@ -1,3 +1,5 @@
+<img src="https://github.com/A7md-Waly/A7md-Waly/blob/main/bring.jpg?raw=true" alt="Banner" style="width:100%;" />
+
 <h1 align="center">Hi 👋, I'm Ahmed Waly</h1>
 <h3 align="center">Data Engineering Enthusiast | Student Ambassador @Microsoft</h3>
 
