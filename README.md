@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20views-2876-blue?style=flat&logo=github" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=A7md-Waly&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
