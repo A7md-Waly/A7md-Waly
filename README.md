@@ -1,14 +1,7 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="80"/>
-</p>
-
 <h1 align="center">Hi, I'm Ahmed Waly <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">A passionate Data Engineering Enthusiast | Microsoft Student Ambassador</h3>
 
-<p align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQFI-d6KPzhMhw/profile-displaybackgroundimage-shrink_350_1400/B4DZc.S4GEGUAc-/0/1749096829512?e=1756339200&v=beta&t=0cuwc4zB7LDeRc3x8e2KxGTq5pTX4rNesl2ieOdHaQU" width="1000px">
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A7md-Waly&style=flat-square&color=blue" alt="Profile views" />
