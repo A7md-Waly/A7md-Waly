@@ -22,6 +22,7 @@ I'm a final-year Artificial Intelligence student at Kafrelsheikh University, gra
     <a href="https://x.com/A7mdGamel"><img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=x&logoColor=white" alt="X"/></a>
     <a href="https://www.youtube.com/@A7mdGamel"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/></a>
     <a href="https://www.hackerrank.com/profile/A7mdGamel"><img src="https://img.shields.io/badge/HackerRank-%2307C559.svg?style=plastic&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+    <a href="https://ahmed-gamel.azurewebsites.net"><img src="https://img.shields.io/badge/Portfolio-%2300e5c3.svg?style=plastic&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
