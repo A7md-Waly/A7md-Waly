@@ -15,12 +15,12 @@ I'm a final-year Artificial Intelligence student at Kafrelsheikh University, gra
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-    <a href="mailto:ahmedwaly070@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://github.com/A7mdGamel"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:ahmmed.gammel@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://github.com/AhmdGameel"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://wa.me/201063647503"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-    <a href="https://www.linkedin.com/in/A7mdGamel"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://x.com/A7mdGamel"><img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=x&logoColor=white" alt="X"/></a>
-    <a href="https://www.youtube.com/@A7mdGamel"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    <a href="https://www.linkedin.com/in/AhmdGameel"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://x.com/AhmdGameel"><img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://www.youtube.com/@AhmdGameel"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/></a>
     <a href="https://www.hackerrank.com/profile/A7mdGamel"><img src="https://img.shields.io/badge/HackerRank-%2307C559.svg?style=plastic&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
     <a href="https://ahmed-gamel.azurewebsites.net"><img src="https://img.shields.io/badge/Portfolio-%2300e5c3.svg?style=plastic&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
